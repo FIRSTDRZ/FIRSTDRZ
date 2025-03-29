@@ -1,8 +1,9 @@
-Hi 👋 My name is Nasapong Thipwong 
+Hi 👋 My name is Nasapong Thipwong
+
 University Student 
 * 🌍  I'm based in Chiang Mai
-* * ✉️  You can contact me at [nasapongthipwong@gmail.com](mailto:nasapongthipwong@gmail.com)
-  * * 🧠  I'm learning Python and C++
+* ✉️  You can contact me at [nasapongthipwong@gmail.com](mailto:nasapongthipwong@gmail.com)
+* 🧠  I'm learning Python and C++
 
 ### Skills  
 
